@@ -1,4 +1,4 @@
-# The meeting point
+# The Meeting Point
 
 Usar algoritmo dijkstra para solucionar el siguiente problema:
 Pedro debe llegar a tiempo a un punto G desde un punto P, así que debe recorrer la distancia mínima,
